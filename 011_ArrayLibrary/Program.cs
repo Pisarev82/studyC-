@@ -2,9 +2,10 @@
 {
     int length = collection.Length;
     int index = 0;
+    Random rd = new Random();
     while (index < length)
     {
-        collection[index] = new Random().Next(1, 10);
+        collection[index] = rd.Next(1, 10);
         index++;
     }
 }
@@ -36,6 +37,7 @@ int IndexOf(int[] collection, int find)
 }
 
 int[] array = new int[10];
+
 FillArray(array);
 array[4] = 4;
 array[7] = 4;
