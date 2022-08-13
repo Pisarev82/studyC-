@@ -1,0 +1,15 @@
+D:\dev\studyC-\studyC-\012\obj\Debug\net6.0\012.csproj.AssemblyReference.cache
+D:\dev\studyC-\studyC-\012\obj\Debug\net6.0\012.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\studyC-\studyC-\012\obj\Debug\net6.0\012.AssemblyInfoInputs.cache
+D:\dev\studyC-\studyC-\012\obj\Debug\net6.0\012.AssemblyInfo.cs
+D:\dev\studyC-\studyC-\012\obj\Debug\net6.0\012.csproj.CoreCompileInputs.cache
+D:\dev\studyC-\studyC-\012\bin\Debug\net6.0\012.exe
+D:\dev\studyC-\studyC-\012\bin\Debug\net6.0\012.deps.json
+D:\dev\studyC-\studyC-\012\bin\Debug\net6.0\012.runtimeconfig.json
+D:\dev\studyC-\studyC-\012\bin\Debug\net6.0\012.dll
+D:\dev\studyC-\studyC-\012\bin\Debug\net6.0\012.pdb
+D:\dev\studyC-\studyC-\012\obj\Debug\net6.0\012.dll
+D:\dev\studyC-\studyC-\012\obj\Debug\net6.0\refint\012.dll
+D:\dev\studyC-\studyC-\012\obj\Debug\net6.0\012.pdb
+D:\dev\studyC-\studyC-\012\obj\Debug\net6.0\012.genruntimeconfig.cache
+D:\dev\studyC-\studyC-\012\obj\Debug\net6.0\ref\012.dll

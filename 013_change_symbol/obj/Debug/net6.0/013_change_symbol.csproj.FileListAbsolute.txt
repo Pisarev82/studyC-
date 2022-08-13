@@ -1,0 +1,15 @@
+D:\dev\studyC-\studyC-\013_change_symbol\obj\Debug\net6.0\013_change_symbol.csproj.AssemblyReference.cache
+D:\dev\studyC-\studyC-\013_change_symbol\obj\Debug\net6.0\013_change_symbol.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\studyC-\studyC-\013_change_symbol\obj\Debug\net6.0\013_change_symbol.AssemblyInfoInputs.cache
+D:\dev\studyC-\studyC-\013_change_symbol\obj\Debug\net6.0\013_change_symbol.AssemblyInfo.cs
+D:\dev\studyC-\studyC-\013_change_symbol\obj\Debug\net6.0\013_change_symbol.csproj.CoreCompileInputs.cache
+D:\dev\studyC-\studyC-\013_change_symbol\bin\Debug\net6.0\013_change_symbol.exe
+D:\dev\studyC-\studyC-\013_change_symbol\bin\Debug\net6.0\013_change_symbol.deps.json
+D:\dev\studyC-\studyC-\013_change_symbol\bin\Debug\net6.0\013_change_symbol.runtimeconfig.json
+D:\dev\studyC-\studyC-\013_change_symbol\bin\Debug\net6.0\013_change_symbol.dll
+D:\dev\studyC-\studyC-\013_change_symbol\bin\Debug\net6.0\013_change_symbol.pdb
+D:\dev\studyC-\studyC-\013_change_symbol\obj\Debug\net6.0\013_change_symbol.dll
+D:\dev\studyC-\studyC-\013_change_symbol\obj\Debug\net6.0\refint\013_change_symbol.dll
+D:\dev\studyC-\studyC-\013_change_symbol\obj\Debug\net6.0\013_change_symbol.pdb
+D:\dev\studyC-\studyC-\013_change_symbol\obj\Debug\net6.0\013_change_symbol.genruntimeconfig.cache
+D:\dev\studyC-\studyC-\013_change_symbol\obj\Debug\net6.0\ref\013_change_symbol.dll

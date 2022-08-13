@@ -1,0 +1,15 @@
+D:\dev\studyC-\studyC-\014_orderingArray\bin\Debug\net6.0\014_orderingArray.exe
+D:\dev\studyC-\studyC-\014_orderingArray\bin\Debug\net6.0\014_orderingArray.deps.json
+D:\dev\studyC-\studyC-\014_orderingArray\bin\Debug\net6.0\014_orderingArray.runtimeconfig.json
+D:\dev\studyC-\studyC-\014_orderingArray\bin\Debug\net6.0\014_orderingArray.dll
+D:\dev\studyC-\studyC-\014_orderingArray\bin\Debug\net6.0\014_orderingArray.pdb
+D:\dev\studyC-\studyC-\014_orderingArray\obj\Debug\net6.0\014_orderingArray.csproj.AssemblyReference.cache
+D:\dev\studyC-\studyC-\014_orderingArray\obj\Debug\net6.0\014_orderingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\studyC-\studyC-\014_orderingArray\obj\Debug\net6.0\014_orderingArray.AssemblyInfoInputs.cache
+D:\dev\studyC-\studyC-\014_orderingArray\obj\Debug\net6.0\014_orderingArray.AssemblyInfo.cs
+D:\dev\studyC-\studyC-\014_orderingArray\obj\Debug\net6.0\014_orderingArray.csproj.CoreCompileInputs.cache
+D:\dev\studyC-\studyC-\014_orderingArray\obj\Debug\net6.0\014_orderingArray.dll
+D:\dev\studyC-\studyC-\014_orderingArray\obj\Debug\net6.0\refint\014_orderingArray.dll
+D:\dev\studyC-\studyC-\014_orderingArray\obj\Debug\net6.0\014_orderingArray.pdb
+D:\dev\studyC-\studyC-\014_orderingArray\obj\Debug\net6.0\014_orderingArray.genruntimeconfig.cache
+D:\dev\studyC-\studyC-\014_orderingArray\obj\Debug\net6.0\ref\014_orderingArray.dll
