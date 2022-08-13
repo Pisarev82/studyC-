@@ -1,0 +1,15 @@
+D:\dev\studyC-\studyC-\008_IntroMethod\bin\Debug\net6.0\008.exe
+D:\dev\studyC-\studyC-\008_IntroMethod\bin\Debug\net6.0\008.deps.json
+D:\dev\studyC-\studyC-\008_IntroMethod\bin\Debug\net6.0\008.runtimeconfig.json
+D:\dev\studyC-\studyC-\008_IntroMethod\bin\Debug\net6.0\008.dll
+D:\dev\studyC-\studyC-\008_IntroMethod\bin\Debug\net6.0\008.pdb
+D:\dev\studyC-\studyC-\008_IntroMethod\obj\Debug\net6.0\008.csproj.AssemblyReference.cache
+D:\dev\studyC-\studyC-\008_IntroMethod\obj\Debug\net6.0\008.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\studyC-\studyC-\008_IntroMethod\obj\Debug\net6.0\008.AssemblyInfoInputs.cache
+D:\dev\studyC-\studyC-\008_IntroMethod\obj\Debug\net6.0\008.AssemblyInfo.cs
+D:\dev\studyC-\studyC-\008_IntroMethod\obj\Debug\net6.0\008.csproj.CoreCompileInputs.cache
+D:\dev\studyC-\studyC-\008_IntroMethod\obj\Debug\net6.0\008.dll
+D:\dev\studyC-\studyC-\008_IntroMethod\obj\Debug\net6.0\refint\008.dll
+D:\dev\studyC-\studyC-\008_IntroMethod\obj\Debug\net6.0\008.pdb
+D:\dev\studyC-\studyC-\008_IntroMethod\obj\Debug\net6.0\008.genruntimeconfig.cache
+D:\dev\studyC-\studyC-\008_IntroMethod\obj\Debug\net6.0\ref\008.dll
