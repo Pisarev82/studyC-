@@ -1,0 +1,15 @@
+D:\dev\studyC-\studyC-\015_Array_x_2\bin\Debug\net6.0\015_Array_x_2.exe
+D:\dev\studyC-\studyC-\015_Array_x_2\bin\Debug\net6.0\015_Array_x_2.deps.json
+D:\dev\studyC-\studyC-\015_Array_x_2\bin\Debug\net6.0\015_Array_x_2.runtimeconfig.json
+D:\dev\studyC-\studyC-\015_Array_x_2\bin\Debug\net6.0\015_Array_x_2.dll
+D:\dev\studyC-\studyC-\015_Array_x_2\bin\Debug\net6.0\015_Array_x_2.pdb
+D:\dev\studyC-\studyC-\015_Array_x_2\obj\Debug\net6.0\015_Array_x_2.csproj.AssemblyReference.cache
+D:\dev\studyC-\studyC-\015_Array_x_2\obj\Debug\net6.0\015_Array_x_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\studyC-\studyC-\015_Array_x_2\obj\Debug\net6.0\015_Array_x_2.AssemblyInfoInputs.cache
+D:\dev\studyC-\studyC-\015_Array_x_2\obj\Debug\net6.0\015_Array_x_2.AssemblyInfo.cs
+D:\dev\studyC-\studyC-\015_Array_x_2\obj\Debug\net6.0\015_Array_x_2.csproj.CoreCompileInputs.cache
+D:\dev\studyC-\studyC-\015_Array_x_2\obj\Debug\net6.0\015_Array_x_2.dll
+D:\dev\studyC-\studyC-\015_Array_x_2\obj\Debug\net6.0\refint\015_Array_x_2.dll
+D:\dev\studyC-\studyC-\015_Array_x_2\obj\Debug\net6.0\015_Array_x_2.pdb
+D:\dev\studyC-\studyC-\015_Array_x_2\obj\Debug\net6.0\015_Array_x_2.genruntimeconfig.cache
+D:\dev\studyC-\studyC-\015_Array_x_2\obj\Debug\net6.0\ref\015_Array_x_2.dll
