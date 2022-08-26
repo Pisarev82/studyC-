@@ -3,8 +3,8 @@
 // Игрок забравший последнюю конфету - виигрывает и отбирает у другого игрока кофеты.
 // за Второго игрока играет компьютер. Написание безпроигрошной для компьютера стратегии.
 
-int candis = 10;
-int step = 3;
+int candis = 100;
+int step = 28;
 
 int InputNumber (string text)
 {
@@ -28,7 +28,7 @@ while (candis > 0)
     else
      {
         Console.WriteLine($"Осталось {candis} конфет. Ходит второй игрок. Сколько конфет забираете? : ");
-        candis = candis - TurnOfIi (step, candis);
+        candis = candis - TurnOfIi (candis, step);
         turnFirstGamer = !turnFirstGamer;
     }
 }
@@ -38,14 +38,16 @@ else Console.WriteLine("Выиграл второй игрок");
 
 int TurnOfIi (int remainsInMethod, int stepInMethod)
 {
-    int result = 1;
+    int resultInTurnOfIi = 1;
 
-    if (stepInMethod <= remainsInMethod ) result = remainsInMethod;
+    if (stepInMethod >= remainsInMethod ) resultInTurnOfIi = remainsInMethod;
     else 
     {
-        result = remainsInMethod % (stepInMethod + 1);
+         resultInTurnOfIi =  remainsInMethod % (stepInMethod +1);
+        if (resultInTurnOfIi == 0) resultInTurnOfIi = 1;
         
     }
-    Console.WriteLine(result);
-    return result;
+    
+    Console.WriteLine(resultInTurnOfIi);
+    return resultInTurnOfIi;
 }
